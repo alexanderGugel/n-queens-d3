@@ -7,5 +7,5 @@ This project aims to visualize various algorithms for the [n-queens problem](htt
 
 Credits
 -------
-* Initial idea: Albrey Brown [Albrey Brown](http://www.develop-yourself.com/)
+* Initial idea: [Albrey Brown](http://www.develop-yourself.com/)
 * Tree visualization heavily inspired by [mbostock’s "Random Tree"](http://bl.ocks.org/mbostock/999346)
